@@ -16,7 +16,7 @@
 - Mỗi phòng trọ được trang bị nhiều thiết bị thuộc nhiều loại thiết bị khác nhau.
 ### NỀN TẢNG THỰC HIỆN
 Đồ án được thực hiện sử dụng:
--	Ngôn ngữ lập trình C#.
+-	Ngôn ngữ lập trình C#, Java.
 -	Giao diện Terminal.
 -	Công nghệ LINQ.
 ### XÂY DỰNG SƠ ĐỒ ERD
