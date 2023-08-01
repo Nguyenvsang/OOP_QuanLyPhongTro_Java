@@ -17,7 +17,8 @@
 ### NỀN TẢNG THỰC HIỆN
 Đồ án được thực hiện sử dụng:
 -	Ngôn ngữ lập trình C#, Java.
-(Phiên bản C# xem ở: https://github.com/Nguyenvsang/OOP_QuanLyPhongTro_C_Sharp)
+- (Phiên bản C# xem ở: https://github.com/Nguyenvsang/OOP_QuanLyPhongTro_C_Sharp)
+- (Phiên bản Java xem ở: https://github.com/Nguyenvsang/OOP_QuanLyPhongTro_Java)
 -	Giao diện Terminal.
 -	Công nghệ LINQ.
 ### XÂY DỰNG SƠ ĐỒ ERD
